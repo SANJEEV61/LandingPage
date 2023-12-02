@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<!-- Designined by CodingLab | www.youtube.com/codinglabyt -->
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>FAQ</title>
+    <link rel="stylesheet" href="assets/css/faq.css">
+    <link rel="shortcut icon" href="./assets/images/log.jpg" type="">
+    <!-- Boxicons CDN Link -->
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <div class="accordion">
+        <div class="image-box">
+            <img src="assets/images/faq.png" alt="">
+        </div>
+        <div class="accordion-text">
+            <div class="title">🙋‍♀️ Need Answers?</div>
+            <ul class="faq-text">
+                <li>
+                    <div class="question-arrow">
+                        <span class="question">What is Manage Wise and what does it offer?</span>
+                        <i class="bx bxs-chevron-down arrow"></i>
+                    </div>
+                    <p>Manage Wise is a comprehensive management platform designed to streamline your
+                        business operations, enhance productivity, and drive success. It offers a range of
+                        features including task management, scheduling, communication tools, analytics, and
+                        more.</p>
+                    <span class="line"></span>
+                </li>
+                <li>
+                    <div class="question-arrow">
+                        <span class="question">Is Manage Wise suitable for small businesses and larger
+                            enterprises alike?
+                        </span>
+                        <i class="bx bxs-chevron-down arrow"></i>
+                    </div>
+                    <p>Yes, Manage Wise is designed to cater to the needs of both small businesses and
+                        larger enterprises. Its scalable features and customizable options make it versatile for
+                        various business sizes.
+                    </p>
+                    <span class="line"></span>
+                </li>
+                <li>
+                    <div class="question-arrow">
+                        <span class="question">Can | access Manage Wise from different devices and
+                            platforms?
+                        </span>
+                        <i class="bx bxs-chevron-down arrow"></i>
+                    </div>
+                    <p>Yes, Manage Wise offers cross-platform compatibility, allowing you to access and
+                        use the platform seamlessly on desktops, web browsers, and mobile devices.
+                    </p>
+                    <span class="line"></span>
+                </li>
+                <li>
+                    <div class="question-arrow">
+                        <span class="question">What kind of support options do you offer to users?
+                        </span>
+                        <i class="bx bxs-chevron-down arrow"></i>
+                    </div>
+                    <p>We provide responsive customer support via chat and email to assist you with any
+                        inquiries, issues, or guidance you may need while using Manage Wise.
+                    </p>
+                    <span class="line"></span>
+                </li>
+                <li>
+                    <div class="question-arrow">
+                        <span class="question">How secure is the data stored within Manage Wise?
+                        </span>
+                        <i class="bx bxs-chevron-down arrow"></i>
+                    </div>
+                    <p>Your data's security is a top priority. Manage Wise employs robust data encryption
+                        and follows industry best practices to ensure your sensitive information is safe and
+                        protected.
+                    </p>
+                    <span class="line"></span>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+    <script>
+        let li = document.querySelectorAll(".faq-text li");
+        for (var i = 0; i < li.length; i++) {
+            li[i].addEventListener("click", (e) => {
+                let clickedLi;
+                if (e.target.classList.contains("question-arrow")) {
+                    clickedLi = e.target.parentElement;
+                } else {
+                    clickedLi = e.target.parentElement.parentElement;
+                }
+                clickedLi.classList.toggle("showAnswer");
+            });
+        }
+    </script>
+
+</body>
+
+</html>
