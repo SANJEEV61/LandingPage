@@ -18,7 +18,7 @@ This project is a faithful replica of the [Managewise](https://managewise.framer
 
 ## Demo 🪧
 
-A live demo of the project can be found [here](https://resplendent-cactus-51257e.netlify.app/).
+A live demo of the project can be found [here](https://resplendent-cactus-51257e.netlify.app/). 🔗
 
 ## Features 😍
 - Responsive design 📱
