@@ -4,28 +4,28 @@
 
 ## Table of Contents
 
-- [Project Description](#project-description) 
-- [Demo](#demo)
-- [Features](#features)
-- [Snapshots](#SnapShots)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
+- [Project Description](#project-description) ❗
+- [Demo](#demo) 🪧
+- [Features](#features) 😍
+- [Snapshots](#SnapShots) 🖼️
+- [Getting Started](#getting-started) 🏁
+- [Usage](#usage) ⭐
 
 
-## Project Description
+## Project Description ❗
 
 This project is a faithful replica of the [Managewise](https://managewise.framer.website/) website, created as part of an assignment for the web development position at HireQuotient.The purpose of this project is to showcase my proficiency in web development and demonstrate the ability to recreate a given design and functionality.
 
-## Demo
+## Demo 🪧
 
 A live demo of the project can be found [here](https://resplendent-cactus-51257e.netlify.app/).
 
-## Features
+## Features 😍
 - Responsive design 📱
 - Navigation menu   🧭
 - Interactive cards 📇
 
-# SnapShots
+# SnapShots 🖼️
 ![image](https://github.com/SANJEEV61/LandingPage/assets/89179742/d93dbc60-86b6-4461-b212-61e668e77647)
 ![image](https://github.com/SANJEEV61/LandingPage/assets/89179742/d36886e2-beeb-4063-a993-4ea285db9aee)
 ![image](https://github.com/SANJEEV61/LandingPage/assets/89179742/fc2b41de-ae2c-4161-9096-88b487a973c8)
@@ -34,7 +34,7 @@ A live demo of the project can be found [here](https://resplendent-cactus-51257e
 ![image](https://github.com/SANJEEV61/LandingPage/assets/89179742/75811852-825e-459c-851b-4bbaf9af2a6f)
 ![image](https://github.com/SANJEEV61/LandingPage/assets/89179742/bf70b777-e898-4175-8e88-3b8437695d94)
 
-## Getting Started
+## Getting Started 🏁
 
 To run this project locally, follow these steps:
 
