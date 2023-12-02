@@ -8,6 +8,7 @@
 - [Project Description](#project-description)
 - [Demo](#demo)
 - [Features](#features)
+- [Snapshots](#SnapShots)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 
