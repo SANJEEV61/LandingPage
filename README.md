@@ -1,6 +1,5 @@
 # LandingPage
 # ManageWise
-# ResponsiveDesign
 # Managewise Replica
 
 ## Table of Contents
@@ -22,7 +21,8 @@ This project is a faithful replica of the [Managewise](https://managewise.framer
 A live demo of the project can be found [here](https://resplendent-cactus-51257e.netlify.app/).
 
 ## Features
-- Responsive design
+- Responsive design ![WhatsApp Image 2023-12-02 at 8 22 47 PM](https://github.com/SANJEEV61/LandingPage/assets/89179742/77c978a0-0a78-4c59-bb86-47a510dbe74b)
+
 - Navigation menu
 - Interactive cards
 
