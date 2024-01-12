@@ -14,7 +14,7 @@
 
 ## Project Description ❗
 
-This project is a faithful replica of the [Managewise](https://managewise.framer.website/) website, created as part of an assignment for the web development position at HireQuotient.The purpose of this project is to showcase my proficiency in web development and demonstrate the ability to recreate a given design and functionality.
+This project is a faithful replica of the [Managewise](https://managewise.framer.website/) website.The purpose of this project is to showcase my proficiency in web development and demonstrate the ability to recreate a given design and functionality.
 
 ## Demo 🪧
 
